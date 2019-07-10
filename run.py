@@ -31,9 +31,9 @@ def findAdmin():
 
 def Credit():
 	Space(9); print "#####################################"
-	Space(9); print "#   *** Admin Panel Finder ***   #"
-	Space(9); print "#     Deden Testos   #"
-	Space(9); print "#    Stay llegal And Edan   #"
+	Space(9); print "#   *** Admin Panel Finder ***      #"
+	Space(9); print "#            Testos991.             #"
+	Space(9); print "#       Stay llegal And Fun         #"
 	Space(9); print "#####################################"
 
 Credit()
